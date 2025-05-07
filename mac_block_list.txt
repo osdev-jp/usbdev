@@ -1,0 +1,12 @@
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 002: ID 04f2:b746 Chicony Electronics Co., Ltd EasyCamera
+Bus 001 Device 003: ID 8087:0026 Intel Corp. AX201 Bluetooth
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 008: ID 0b95:7720 ASIX Electronics Corp. AX88772
+Bus 002 Device 005: ID 0bda:8153 Realtek Semiconductor Corp. RTL8153 Gigabit Ethernet Adapter
+Bus 002 Device 006: ID 0b95:1790 ASIX Electronics Corp. AX88179 Gigabit Ethernet
+Bus 002 Device 007: ID 0bda:8153 Realtek Semiconductor Corp. RTL8153 Gigabit Ethernet Adapter
+Bus 002 Device 008: ID 0bda:8153 Realtek Semiconductor Corp. RTL8153 Gigabit Ethernet Adapter
+Bus 002 Device 009: ID 0bda:8153 Realtek Semiconductor Corp. RTL8153 Gigabit Ethernet Adapter
+Bus 002 Device 014: ID 0b95:1790 ASIX Electronics Corp. AX88179 Gigabit Ethernet
+Bus 002 Device 015: ID 0bda:8153 Realtek Semiconductor Corp. RTL8153 Gigabit Ethernet Adapter
